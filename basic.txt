@@ -1,0 +1,11 @@
+Pandas is a Python Library used for working with Data Sets.
+It has functions for analyzing, cleaning, exploring and manipulatind data.
+It is used to analyze the Data.
+Main Reason to used Python :
+It allows us to analyze th big data and make conclusion based on statistical thoreies.
+It can clean messy data sets, and make them readable and relevent.
+Relevant data is very important in data science.
+Check For Version.
+import pandas as pd
+
+print(pd.__version__)
